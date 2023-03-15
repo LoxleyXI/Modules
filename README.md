@@ -11,6 +11,9 @@ These modules are free for anyone to use on their own server, and I encourage it
 
 > Retrict the use of gathering points for 10 seconds to the first player who uses them.
 
+* Pre-Zilart
+> A module designed to recreate the 2002 era experience from before RotZ (the first expansion).
+
 * Reasonable EXP
 
 > Flatten the EXP curve that was artificially inflated to lengthen the game during era.
