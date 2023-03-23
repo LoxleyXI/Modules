@@ -35,7 +35,7 @@ https://www.bg-wiki.com/ffxi/The_History_of_Final_Fantasy_XI/2002
 * 62-70 **+200** EXP
 * 70-75 **+200** EXP
 
-## Total EXP to 75
+### Total EXP to 75
 * Before: **801,350** EXP
 * After: **490,550** EXP
 
