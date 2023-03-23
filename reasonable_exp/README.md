@@ -2,13 +2,14 @@
 
 * Flattens the EXP Curve increase made after Limit Breaks that artificially lengthens the game
 * Reduces the tedium of higher levels where content is thin and pacing becomes excruciatingly slow
+* Maintains the pacing of around 1 level per hour into the higher levels
 
 
 ## Preface
 
 It's common for the average player to burn out and quit 60+ due to the curve, so I made this module to remodel it based on the original design. The current curve serves no purpose other than an arbitrary timesink and dissuades many players from leveling other jobs, a feature which is core to horizontal progression.
 
-It appears the original EXP curve was adjusted twice. The original design gradually flattens (Presumably due to the accumulated total). After the first Limit Break, this was raised from +100 EXP per level, up to +200 EXP per level. After the second Limit break, each range dramatically increases per level. This module takes a compromise of the two versions by retaining the +200 EXP per level, rather than continuing to reduce it.
+As a compromise, rather than reducing the additional EXP per level (as the original design pre-50), I took the *first* change after LB1 which fixes the increase at +200.
 
 > "When Extra Jobs were introduced, users who were familiar with the
 > game managed to reach level cap on paladin and dark knight within
@@ -25,14 +26,18 @@ https://www.bg-wiki.com/ffxi/The_History_of_Final_Fantasy_XI/2002
 * 52-56 **+200** EXP
 
 ### Post Limit Break
-* 56-61 **+1200** EXP
-* 62-70 **+1500** EXP
-* 70-75 **+2000** EXP
+* 56-61 **+1,200** EXP
+* 62-70 **+1,500** EXP
+* 70-75 **+2,000** EXP
 
 ### Correction
 * 56-61 **+200** EXP
 * 62-70 **+200** EXP
 * 70-75 **+200** EXP
+
+## Total EXP to 75
+* Before: **801,350** EXP
+* After: **490,550** EXP
 
 
 ## Installation
