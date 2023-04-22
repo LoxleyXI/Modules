@@ -11,6 +11,10 @@ These modules are free for anyone to use on their own server, and I encourage it
 
 > Retrict the use of gathering points for 10 seconds to the first player who uses them.
 
+* Oztroja Escape
+
+> Allows players to escape the final floor of Castle Oztroja in classic FF fashion
+
 * Pre-Zilart
 > A module designed to recreate the 2002 era experience from before RotZ (the first expansion).
 
