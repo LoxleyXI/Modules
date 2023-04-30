@@ -3,7 +3,7 @@
 
 ## Preface
 
-Implements custom HELM using dynamic entities and overrides of the existing HELM system. The feel is designed to be as retail as possible within the current limitations, including delay, accurate messages, break rates, modifiers, etc. It uses `sendEmote` for animation (core change to optionally send packet to source player), as existing animations are hardcoded in Events/DATs per zone.
+Implements custom HELM using dynamic entities and overrides of the existing HELM system. The feel is designed to be as retail as possible within the current limitations, including delay, accurate messages, break rates, modifiers, etc. It uses `selfEmote` for animation (This is an extension of lua_baseentity from the provided module), as existing animations are hardcoded in Event/DATs per zone.
 
 The drop tables use a weighted Common/Uncommon/Rare system, similar to mob drops, and is probably closer to what retail HELM actually uses (You can see example tables on early Japanese guides which were copied to [bgwiki](https://www.bg-wiki.com/ffxi/Mining)).
 
@@ -16,6 +16,7 @@ One basic template is provided as an example.
 * Include the latest version of `custom_util.lua`
 ```
 custom/lua/custom_util.lua
+custom/custom_helm/self_emote.cpp
 custom/custom_helm/custom_helm.lua
 custom/custom_helm/examples/
 custom/custom_helm/commands/helmnext.lua
