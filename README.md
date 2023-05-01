@@ -32,6 +32,10 @@ using a simple lua template
 
 > Retrict the use of gathering points for 10 seconds to the first player who uses them.
 
+* Ironman Mode
+
+> Ironman is similar to "self-found" in other games. Players will need to personally gather all of the materials they need for adventuring and craft or source each item on their own. The module comes with fully scripted NPCs to handle Ironman status and issuing of rewards.
+
 * Jeuno Valeriano
 
 > Provides access to Troupe Valeriano's services in Jeuno during a conquest tally tie when they are usually unavailable
