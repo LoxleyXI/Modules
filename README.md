@@ -13,7 +13,7 @@ These modules are free for anyone to use on their own server, and I encourage it
 
 * Custom Clamming System
 
-> Add the [Clamming](https://ffxiclopedia.fandom.com/wiki/Clamming) System from Purgonorgo Isle, complete with a fully scriped NPC, to any zone in the game, 
+> Add the [Clamming](https://ffxiclopedia.fandom.com/wiki/Clamming) System from Purgonorgo Isle, complete with a fully scripted NPC, to any zone in the game, 
 using a simple lua template
 
 * Custom HELM System
