@@ -58,7 +58,7 @@ local settings =
     MODEL     = 2424,                 -- Clamming Point model id
     DELAY     = 15,                   -- Seconds before Clamming Point is available again
     REPEAT    = 3,                    -- Seconds before player can trigger Clamming Point again
-    ANIMATION = xi.animation.HEALING, -- Animation during clamming
+    ANIMATION = 48,                   -- Animation during clamming
     DURATION  = 1000,                 -- Duration of animation
 }
 

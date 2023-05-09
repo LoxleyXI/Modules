@@ -56,7 +56,6 @@ Clamming gear from Sunbreeze is compatible
 
 ## Technical
 * npcUtil is updated to allow an optional param for the correct item obtains dialog on singular items
-* Clamming animation is hardcoded into Bibiki DAT, so a 3 second healing animation is used instead, which looks almost identical on most races. This also has the benefit of "locking out" the character for the duration of clamming.
 * There is also a 3 second delay before the same player can "trigger" the Clamming Point to prevent log spam
 * Dialog was kept where suitable but most had to be rewritten to be more NPC neutral
 * Clamming Kit is broken upon zoning to prevent potential exploits involving multiple Clamming areas
